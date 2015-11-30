@@ -83,5 +83,13 @@ sup {
 
 .footnotes {
     font-size: 1em;
-    line-height: 1.4em;
+    line-spacing: 1.4em;
+    display: inline-block;
+    padding: 0px;
+    margin-left: -1.4em;
+}
+
+.foot-no-link {
+    display: inline;
+    line-spacing: -0.5em;
 }
