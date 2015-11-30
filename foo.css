@@ -26,10 +26,20 @@ p {
 
 h1 {
     color: #444;
-    font-size: 1.8em;
+    font-size: 2em;
     letter-spacing: -1px;
     padding-top: 2em;
     padding-bottom: 2em;
+}
+
+h1 a:link {
+    color: #444;
+    text-decoration: underline;
+}
+
+h1 a:hover {
+    color: #222;
+    background-color: #CCF;
 }
 
 a {
