@@ -24,10 +24,10 @@ p, ol {
     font-size: 1.3em;
 }
 
-ol {
-    background-color: #F7F7FF;
-    color: #121212;
-}
+/* ol { */
+/*     background-color: #F7F7FF; */
+/*     color: #121212; */
+/* } */
 
 h1 {
     color: #444;
